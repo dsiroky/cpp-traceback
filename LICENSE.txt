@@ -1,0 +1,2 @@
+cpp-traceback - MIT license http://opensource.org/licenses/MIT
+StackWalker - BSD license http://opensource.org/licenses/bsd-license
